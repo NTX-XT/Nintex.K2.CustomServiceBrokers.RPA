@@ -56,7 +56,7 @@ You can use the Nintex RPA broker in two different modes:
 - Fire and wait for a response: You can do this by passing the Nintex K2 Wait for external system checkbox and pass the workflow activity SerialNo , this will make your Nintex Workflow wait for the RPA bot to call back and resume the workflow 
 it will also allow it to pass some outcomes back to the Nintex K2 workflow.
 	
-![Nintex RPA](https://raw.githubusercontent.com/NTX-XT/Nintex.K2.CustomServiceBrokers.RPA/main/Add_RPA_Task.png?token=GHSAT0AAAAAACDK5WAQ2PIC3RYRMKJAU5YAZDXR3IQ)
+![Nintex RPA](https://raw.githubusercontent.com/NTX-XT/Nintex.K2.CustomServiceBrokers.RPA/main/Add_RPA_Task.png?token=GHSAT0AAAAAACDK5WARODOCMDAWXRV4IVRQZEA5KDA)
 ## Development
 
 Want to contribute? Great you will need 
